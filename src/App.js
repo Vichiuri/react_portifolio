@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+  import React, { Component } from 'react';
 import './App.css';
 import Sidebar from './components/sidebar'
 import Introduction from './components/introduction'
