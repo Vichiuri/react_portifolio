@@ -13,7 +13,9 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a  Software Engineer and a DevOPs specialist with a Computer Science degree from the Catholic University of EASTERN AFRICA( CUEA).I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years (apart from the headphone-jack part!!)</p>
+                    <p> I am an Advanced programmer and currently a software development manager with experience in structuring, developing and implementing interactive websites, web applications, flutter mobile applications and custom software. Able to complete projects efficiently and satisfy customers with attractive, user- friendly websites and software. Also works well under pressure and consistently meets deadlines and targets while delivering high quality work.
+</p>
+                    <p>I am also a Software Engineer and a DevOPs specialist with a Computer Science degree from the Catholic University of EASTERN AFRICA( CUEA).I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years.</p>
                     <p>I have started reflecting my ideas and thoughts through the medium of words recently so spelling and grammer mistaks are very often.You can write me back if you spot any and don't want to live anymore :P </p>
                     </div>
                 </div>
@@ -37,8 +39,8 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extentions using JavaScript,React,Redux,HTML and CSS</p>
+                    <p>I have experience building web Applications using Python Django, JavaScript,React,Redux,HTML and CSS</p>
+                    <p>I'm also extremely skilled in sql language, my preferred database of choice is postgresql</p>
                 </div>
                 </div>
             </div>
@@ -49,7 +51,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                    <p>Coming from a Computer Science background, I have a really good grasp over the fundamental concepts of DSA</p>
                 </div>
                 </div>
             </div>
@@ -60,7 +62,8 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Dev Ops</h3>
-                    <p>I am Dev OPs Engineer at VAP Technologies  working with tools like Jenkins, Docker, K8s and Nginx</p>
+                    <p>I am the Dev OPs Engineer at VAP Technologies  working with tools like Jenkins, Docker, K8s and Nginx. I am currently completely in charge of building and maintaining a a CI/CD Pipeline.
+</p>
                 </div>
                 </div>
             </div>
