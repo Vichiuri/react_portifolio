@@ -13,10 +13,10 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p> I am an Advanced programmer and currently a software development manager with experience in structuring, developing and implementing interactive websites, web applications, flutter mobile applications and custom software. Able to complete projects efficiently and satisfy customers with attractive, user- friendly websites and software. Also works well under pressure and consistently meets deadlines and targets while delivering high quality work.
+                    <p> I am an Advanced programmer and currently a software development manager with experience in structuring, developing and implementing interactive websites, web applications, flutter mobile applications and custom software. I'm able to complete projects efficiently and satisfy clients with attractive, user- friendly web applications and softwares. I also work well under pressure and consistently meet deadlines and targets while delivering high quality work.
 </p>
-                    <p>I am also a Software Engineer and a DevOPs specialist with a Computer Science degree from the Catholic University of EASTERN AFRICA( CUEA).I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years.</p>
-                    <p>I have started reflecting my ideas and thoughts through the medium of words recently so spelling and grammer mistaks are very often.You can write me back if you spot any and don't want to live anymore :P </p>
+                    <p>I am also a DevOPs specialist with a Computer Science degree from the Catholic University of EASTERN AFRICA( CUEA). I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years.</p>
+                    {/* <p>I have started reflecting my ideas and thoughts through the medium of words recently so spelling and grammer mistaks are very often.You can write me back if you spot any and don't want to live anymore :P </p> */}
                     </div>
                 </div>
                 </div>

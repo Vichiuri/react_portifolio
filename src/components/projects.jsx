@@ -17,13 +17,13 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-1.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 01</a></h3>
+											<h3><a href="https://scm.netbotapp.com/" target="_blank">Work 01 -Click to View</a></h3>
 											<span>Supply Chain Management System</span>
-											<p className="icon">
+											{/* <p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
 												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p>
+											</p> */}
 										</div>
 									</div>
 								</div>
@@ -32,13 +32,13 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-2.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 02</a></h3>
+											<h3><a href="https://hris.netbotgroup.com/"  target="_blank"> Work 02- Click to View</a></h3>
 											<span>Human Resource Information System</span>
-											<p className="icon">
+											{/* <p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
 												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p>
+											</p> */}
 										</div>
 									</div>
 								</div>
@@ -47,13 +47,13 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-3.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 03</a></h3>
+											<h3><a href="https://fuel.netbotapp.com/" target="_blank">Work 03- Click to View</a></h3>
 											<span>Petrol Station Management System</span>
-											<p className="icon">
+											{/* <p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
 												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p>
+											</p> */}
 										</div>
 									</div>
 								</div>
@@ -62,13 +62,13 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 04</a></h3>
+											<h3><a href="https://bulksms.netbotapp.com" target="_blank">Work 04- Click to View</a></h3>
 											<span>Bulk SMS System</span>
-											<p className="icon">
+											{/* <p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
 												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p>
+											</p> */}
 										</div>
 									</div>
 								</div>
@@ -77,13 +77,13 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 05</a></h3>
+											<h3><a href="https://wms.netbotapp.com/" target="_blank">Work 05- Click to View</a></h3>
 											<span>Wealth Management System</span>
-											<p className="icon">
+											{/* <p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
 												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p>
+											</p> */}
 										</div>
 									</div>
 								</div>
@@ -92,22 +92,22 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-6.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 06</a></h3>
+											<h3><a href="https:/easeed.netbotapp.com/" target="_blank">Work 06-Click to View</a></h3>
 											<span>Order Management System </span>
-											<p className="icon">
+											{/* <p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
 												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p>
+											</p> */}
 										</div>
 									</div>
 								</div>
 							</div>
 						</div>
 						<div className="row">
-							<div className="col-md-12 animate-box">
+							{/* <div className="col-md-12 animate-box">
 								<p><a href="#" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload" /></a></p>
-							</div>
+							</div> */}
 						</div>
 					</div>
 				</section>
@@ -115,6 +115,7 @@ export default class Projects extends Component {
     )
   }
 }
+
 
 
 
