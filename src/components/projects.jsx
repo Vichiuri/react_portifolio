@@ -34,6 +34,12 @@ export default class Projects extends Component {
 										<div className="con">
 											<h3><a href="https://hris.netbotgroup.com/"  target="_blank"> Work 02- Click to View</a></h3>
 											<span>Human Resource Information System</span>
+											<p>
+												Th
+
+
+						
+											</p>
 											{/* <p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
